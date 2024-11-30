@@ -1,4 +1,4 @@
 # Onnicha Srisaman
-![momo.png](./img/20240303_123349(0).jpg)
+![momo.png](./img/1.png)
 - Onnicha Srisaman 6530200878
 - Mo
