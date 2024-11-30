@@ -1,4 +1,5 @@
-# Onnicha Srisaman
+# Hi, I'm Mo
 ![momo.png](./img/1.png)
-- Onnicha Srisaman 6530200878
-- Mo
+- My name is Onnicha Srisaman
+- My nickname is mo
+- I'm a Computer Science student
