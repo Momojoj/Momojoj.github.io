@@ -39,4 +39,4 @@
 
 ## **สมาชิกกลุ่ม**
 - [6530200100 Naphop Khumchawna](https://NutNaphop.github.io/firewall)
-- 6530200878 Onnichan Srisaman
+- 6530200878 Onnicha Srisaman
