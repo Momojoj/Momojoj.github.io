@@ -2,5 +2,5 @@
 ![momo.png](./img/pic.png)
 ## 🎀 About me 🎀
 - My name is Onnicha Srisaman🫧
-- My nickname is mo💐
+- My nickname is Monic🌈
 - I'm a Computer Science student👩🏻‍💻
