@@ -4,3 +4,7 @@
 - My name is Onnicha Srisaman💅🏼
 - My nickname is Monic🩰
 - I'm a Computer Science student👩🏻‍💻
+
+## 📁 Assignment
+1. [InfoSysSec Glossary ( Firewall )](firewall.md)
+2. [E-card ( Christmas )](e-card.md)
