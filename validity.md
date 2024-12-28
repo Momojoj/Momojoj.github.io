@@ -1,6 +1,6 @@
 # Validity ―୨୧⋆ ˚
 
-## 📜[Definition](https://www.qlik.com/us/data-governance/data-quality)
+## 📜Definition by [Qlik](https://www.qlik.com/us/data-governance/data-quality) 🔗
 - **Validity** gauges data alignment with business rules, including metadata management like valid data types, ranges, and patterns.
 
 ## 📌 Chat GPT
