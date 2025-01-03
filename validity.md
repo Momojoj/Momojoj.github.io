@@ -23,6 +23,6 @@
 | Gemini           |
 
 
-─── ⋆⋅☆⋅⋆ ──
+
  [↩️ Back to profile](README.md)
-─── ⋆⋅☆⋅⋆ ──
+
