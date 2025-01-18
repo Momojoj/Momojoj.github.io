@@ -16,21 +16,28 @@
 # Photos of the activity 🧩
 
 
+| image 1                  |
+:-------------------------:|
+![intro.png](https://res.cloudinary.com/dzfeowrkg/image/upload/fl_preserve_transparency/v1737202295/CyberIMG2_yexwlp.jpg?_s=public-apps) |
 
-image 1            |  image 2
-:-------------------------:|:-------------------------:
-![intro.png](https://res.cloudinary.com/dzfeowrkg/image/upload/fl_preserve_transparency/v1737202295/CyberIMG2_yexwlp.jpg?_s=public-apps) |  ![intro.png](https://res.cloudinary.com/dzfeowrkg/image/upload/fl_preserve_transparency/v1737202295/CyberIMG3_r1lifz.jpg?_s=public-apps)
+| image 2                  |
+:-------------------------:|
+![intro.png](https://res.cloudinary.com/dzfeowrkg/image/upload/fl_preserve_transparency/v1737202295/CyberIMG3_r1lifz.jpg?_s=public-apps) |
 
-image 3            |  image 4
-:-------------------------:|:-------------------------:
-![intro.png](https://res.cloudinary.com/dzfeowrkg/image/upload/fl_preserve_transparency/v1737202295/CyberIMG4_uafhak.jpg?_s=public-apps) |  ![intro.png](https://res.cloudinary.com/dzfeowrkg/image/upload/fl_preserve_transparency/v1737202309/CyberIMG5_h7mzbq.jpg?_s=public-apps)
+| image 3                  |
+:-------------------------:|
+![intro.png](https://res.cloudinary.com/dzfeowrkg/image/upload/fl_preserve_transparency/v1737202295/CyberIMG4_uafhak.jpg?_s=public-apps) |
+
+| image 4                  |
+:-------------------------:|
+![intro.png](https://res.cloudinary.com/dzfeowrkg/image/upload/fl_preserve_transparency/v1737202309/CyberIMG5_h7mzbq.jpg?_s=public-apps) |
 
 |click to view the video         |
 :-------------------------:|
 [![NCSA Challenge](https://img.youtube.com/vi/EG8Q1cCaP7M/maxresdefault.jpg)](https://youtu.be/EG8Q1cCaP7M?feature=shared) |
 
-# Member ⋆⭒˚𖠋𖠋𖠋*.⋆
-1. Naphop Khumchawna → [To Github Page](ncsa.md) 
+# Member 👥
+1. Naphop Khumchawna → [To Github Page](https://nutnaphop.github.io/ncsa)
 2. Onnicha Srisaman → [To Github Page](https://momojoj.github.io/ncsa) 
 3. Thawanrat Phitak → [To Github Page](https://tongyeh.github.io/ncsa) 
 4. Habibah Masae → [To Github Page](https://chocokorn.github.io/ncsa) 
