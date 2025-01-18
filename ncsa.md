@@ -44,4 +44,4 @@
 5. Boonphitak Phompetch → [To Github Page](https://mrzcrocodile.github.io/ncsa) 
 6. Phetcharat Thongluan → [To Github Page](https://nibkekie.github.io/ncsa) 
 
-◀  [Back to profile](README.md)
+[↩️ Back to profile](README.md)
