@@ -32,7 +32,7 @@
 :-------------------------:|
 ![intro.png](https://res.cloudinary.com/dzfeowrkg/image/upload/fl_preserve_transparency/v1737202309/CyberIMG5_h7mzbq.jpg?_s=public-apps) |
 
-|click to view the video         |
+|click to view the video ▶️       |
 :-------------------------:|
 [![NCSA Challenge](https://img.youtube.com/vi/EG8Q1cCaP7M/maxresdefault.jpg)](https://youtu.be/EG8Q1cCaP7M?feature=shared) |
 
