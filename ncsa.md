@@ -30,11 +30,11 @@ image 3            |  image 4
 [![NCSA Challenge](https://img.youtube.com/vi/EG8Q1cCaP7M/maxresdefault.jpg)](https://youtu.be/EG8Q1cCaP7M?feature=shared) |
 
 # Member ⋆⭒˚𖠋𖠋𖠋*.⋆
-1. Naphop Khumchawna -> [To Github Page](ncsa.md)
-2. Onnicha Srisaman -> [To Github Page](ncsa.md)
-3. Thawanrat Phitak -> [To Github Page](ncsa.md)
+1. Naphop Khumchawna → [To Github Page](ncsa.md)
+2. Onnicha Srisaman → [To Github Page](ncsa.md)
+3. Thawanrat Phitak → [To Github Page](ncsa.md)
 4. Habibah Masae -> [To Github Page](ncsa.md)
-5. Boonphitak Phompetch -> [To Github Page](ncsa.md)
-6. Phetcharat Thongluan -> [To Github Page](ncsa.md)
+5. Boonphitak Phompetch → [To Github Page](ncsa.md)
+6. Phetcharat Thongluan → [To Github Page](ncsa.md)
 
 ◀  [Back to profile](README.md)
