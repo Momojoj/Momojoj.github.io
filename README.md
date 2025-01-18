@@ -1,8 +1,8 @@
-# Hi, I'm Monica👋🏼🧕🏼
-![momo.png](./img/pic.png)
+# Hi, I'm Momo👋🏼🧕🏼
+![momo.png](./img/cover.png)
 ## 🎀 About me 🎀
 - My name is Onnicha Srisaman💅🏼
-- My nickname is Monic🩰
+- My nickname is Mo🩰
 - I'm a Computer Science student👩🏻‍💻
 
 ## ☎️ Contact
