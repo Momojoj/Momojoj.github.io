@@ -1,13 +1,16 @@
-# Security Control
+# Security Control .𖥔 ݁ ˖
 
 ![img](img/secure_control.jpg)
 
 กุญแจรถยนต์เป็นสิ่งที่บ่งบอกว่าเราเป็นเจ้าของรถยนต์
 
-Type of Security Controls : Physical Control
+## Type of Security Controls 🪄
+- Physical Control
 
-Control Functions : Preventative
+## Control Functions 🧩
+- Preventative
 
-Location : my car 
+## Location 📍
+- my car 🚗
 
  [↩️ Back to profile](README.md)
