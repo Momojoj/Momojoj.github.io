@@ -1,4 +1,4 @@
-# Security Control .𖥔 ݁ ˖
+# ⋅˚₊‧ ୨ Security Control ୧ ‧₊˚ ⋅
 
 ![img](img/secure_control.jpg)
 
