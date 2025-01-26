@@ -19,5 +19,5 @@
 1. [InfoSysSec Glossary ( Firewall )](firewall.md)
 2. [E-card ( Christmas )](e-card.md)
 3. [Data Quality ( Validity )](validity.md)
-4. [NCSA board game](ncsa.md)
+4. [NCSA board game](boardgame.md)
 5. [Security Control](securitycontrol.md)
