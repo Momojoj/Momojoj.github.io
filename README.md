@@ -22,4 +22,4 @@
 4. [NCSA board game](boardgame.md)
 5. [Security Control](security-control.md)
 6. [PAO Elections](pao-elections.md)
-7. [Serity Requirement](security-requirement.md)
+7. [Security Requirement](security-requirement.md)
