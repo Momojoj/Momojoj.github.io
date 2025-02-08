@@ -1,6 +1,6 @@
 # OWASP Application Security Verification Standard ✨
 
-# 3.2.1 Session Binding ‧₊˚ 🍪 ⋅ ☆
+## 3.2.1 Session Binding 🍪.ᐟ
 
 > Verify the application generates a new session token on user authentication.
 
