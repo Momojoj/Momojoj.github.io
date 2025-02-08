@@ -19,4 +19,4 @@
 
 ## 👥 Member
 - [6530200100 Naphop Khumchawna](https://nutnaphop.github.io/security-requirement)
-- [6530200878 Onnicha Srisaman](secrity-requirement.md)
+- [6530200878 Onnicha Srisaman](security-requirement.md)
