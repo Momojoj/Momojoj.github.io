@@ -14,12 +14,4 @@
 1. [System Analysis Project](https://github.com/Momojoj/SAW-System-Analysis/tree/main)
 2. [Software Tester Project](https://github.com/Momojoj/Software-Tester/tree/main)
 3. [MeowWord](https://github.com/Momojoj/MeowWord)
-
-## 📁 Assignment
-1. [InfoSysSec Glossary ( Firewall )](firewall.md)
-2. [E-card ( Christmas )](e-card.md)
-3. [Data Quality ( Validity )](validity.md)
-4. [NCSA board game](boardgame.md)
-5. [Security Control](security-control.md)
-6. [PAO Elections](pao-elections.md)
-7. [Security Requirement](security-requirement.md)
+4. [DunDiary Appplication (Prototype)](https://www.figma.com/proto/h6eArdcJh7vKlcggljOHS3/Blood-Pressure-App--Copy-?page-id=1215%3A6351&node-id=1215-6980&p=f&viewport=394%2C-41%2C0.06&t=BYQOrQA7YM5q07c1-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=1215%3A6980)
